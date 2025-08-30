@@ -37,7 +37,8 @@ A modern, feature-rich task management application built with Next.js, React, an
 
 3. **Set up environment variables**
    ```bash
-   echo 'PEXELS_API_KEY="your_pexels_api_key_here"' > .env
+   create .env
+   'PEXELS_API_KEY="your_pexels_api_key_here" '
    ```
 
 4. **Set up the database**
